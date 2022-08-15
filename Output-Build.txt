@@ -1,0 +1,6 @@
+﻿Rebuild started...
+1>------ Rebuild All started: Project: Store, Configuration: Debug Any CPU ------
+Restored C:\Users\intel\source\repos\Store\Store.csproj (in 385 ms).
+1>Store -> C:\Users\intel\source\repos\Store\bin\Debug\net5.0\Store.dll
+1>Store -> C:\Users\intel\source\repos\Store\bin\Debug\net5.0\Store.Views.dll
+========== Rebuild All: 1 succeeded, 0 failed, 0 skipped ==========
