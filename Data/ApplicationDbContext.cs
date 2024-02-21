@@ -10,7 +10,7 @@ namespace Store.Data
 {
     public class ApplicationDbContext: IdentityDbContext
     {
-        //ctor command 
+        //ctor command + tab twice
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) : base (options)
         {
 

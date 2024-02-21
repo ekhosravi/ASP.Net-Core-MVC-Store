@@ -20,7 +20,7 @@ namespace Store.Controllers
         public IActionResult Index()
         {
             List<ShoppingCart> shoppingCartList = new List<ShoppingCart>();
-            if ()
+            //if ()
             return View();
         }
     }

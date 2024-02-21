@@ -15,7 +15,6 @@ C:\Users\intel\source\repos\Store\bin\Debug\net5.0\Store.deps.json
 C:\Users\intel\source\repos\Store\bin\Debug\net5.0\Store.runtimeconfig.json
 C:\Users\intel\source\repos\Store\bin\Debug\net5.0\Store.runtimeconfig.dev.json
 C:\Users\intel\source\repos\Store\bin\Debug\net5.0\Store.dll
-C:\Users\intel\source\repos\Store\bin\Debug\net5.0\ref\Store.dll
 C:\Users\intel\source\repos\Store\bin\Debug\net5.0\Store.pdb
 C:\Users\intel\source\repos\Store\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
 C:\Users\intel\source\repos\Store\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
@@ -489,3 +488,4 @@ C:\Users\intel\source\repos\Store\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_V
 C:\Users\intel\source\repos\Store\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
 C:\Users\intel\source\repos\Store\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
 C:\Users\intel\source\repos\Store\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\intel\source\repos\Store\obj\Debug\net5.0\refint\Store.dll
